@@ -1,3 +1,3 @@
-def parrot(input, default = "Squawk!")
-  puts input 
+def parrot(arg, default = "Squawk!")
+  puts arg
 end  
