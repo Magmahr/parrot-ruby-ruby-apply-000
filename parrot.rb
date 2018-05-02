@@ -1,3 +1,3 @@
 def parrot(input, default = "Squawk!")
-  puts input + default
+  puts input 
 end  
